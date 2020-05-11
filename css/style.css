@@ -35,14 +35,6 @@ nav{
 
 /* Cabecera Menú */
 
-.logo h4 {
-	color: tomato;
-	text-transform: uppercase;
-	letter-spacing: 5px;
-	font-weight: 600;
-	font-size: 9px;
-}
-
 .nav-links{
 	display: flex;
 	justify-content: space-around;
